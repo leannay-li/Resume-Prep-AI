@@ -12,63 +12,63 @@
 
 ### Foundation Skills (Know Yourself)
 
-**[`/new-grad-resume-guide`](skills/new-grad-resume-guide/README.md)** — Resume strategy for zero professional experience
+**[`/new-grad-resume-guide`](skills/01-new-grad-resume-guide/SKILL.md)** — Resume strategy for zero professional experience
 - How to structure a resume when you don't have jobs
 - What counts as "experience" (projects, school work, open source)
 - How to avoid common new grad mistakes
 
-**[`/experienced-resume-guide`](skills/experienced-resume-guide/README.md)** — Resume strategy for 1–5 years experience
+**[`/experienced-resume-guide`](skills/02-experienced-resume-guide/SKILL.md)** — Resume strategy for 1–5 years experience
 - How to shift from listing duties to showing impact
 - When to quantify (always) vs estimate vs describe
 - How to position your background for your target role
 
 ### Expression Skills (Build Your Materials)
 
-**[`/summary-writer`](skills/summary-writer/README.md)** — Write your positioning summary
+**[`/summary-writer`](skills/03-summary-writer/SKILL.md)** — Write your positioning summary
 - 2-3 lines that say who you are and why hire you
 - Different summaries for different roles
 - Interactive brainstorming to find the right angle
 
-**[`/summary-reviewer`](skills/summary-reviewer/README.md)** — Get hiring manager feedback on your summary
+**[`/summary-reviewer`](skills/04-summary-reviewer/SKILL.md)** — Get hiring manager feedback on your summary
 - Would a hiring manager take a meeting based on this?
 - Tests: Clarity, Positioning, Strength, Tone
 - Before/After suggestions
 
-**[`/bullet-writer`](skills/bullet-writer/README.md)** — Transform projects into 3–5 resume bullets
+**[`/bullet-writer`](skills/05-bullet-writer/SKILL.md)** — Transform projects into 3–5 resume bullets
 - Action + Technical Detail + Measurable Impact formula
 - Helps you quantify impact honestly
 - Bullets work across multiple resumes
 
-**[`/bullet-reviewer`](skills/bullet-reviewer/README.md)** — Optimize bullets for specific job descriptions
+**[`/bullet-reviewer`](skills/06-bullet-reviewer/SKILL.md)** — Optimize bullets for specific job descriptions
 - Strategic keyword alignment and emphasis
 - Shows how to transfer skills (AWS→GCP, React→Vue)
 - Surgical tweaks, not rewrites
 
 ### Meta Skills (Organize Your System)
 
-**[`/resume-system-orchestrator`](skills/resume-system-orchestrator/README.md)** — Build a modular resume system
+**[`/resume-system-orchestrator`](skills/07-resume-system-orchestrator/SKILL.md)** — Build a modular resume system
 - How to organize summaries, bullets, education, skills
 - Create multiple tailored resumes without duplicating work
 - File organization and maintenance approach
 
 ### Deep Work Skills (Master Your Story)
 
-**[`/case-study-generator`](skills/case-study-generator/README.md)** — Expand ONE bullet into a complete case study
+**[`/case-study-generator`](skills/08-case-study-generator/SKILL.md)** — Expand ONE bullet into a complete case study
 - Full STAR (Situation, Task, Action, Result) narrative
 - Honesty audit: Solid ✅ / Inflated 🟡 / Unclear ❓
 - Foundation for deep interview prep
 
-**[`/gap-analyzer`](skills/gap-analyzer/README.md)** — Compare your project to a target job description
+**[`/gap-analyzer`](skills/09-gap-analyzer/SKILL.md)** — Compare your project to a target job description
 - 6-part diagnostic: Relevance, Gaps, Enhanced Design, Learning Checklist, Timeline, Before/After
 - Shows realistic way to deepen your project
 - Generates your learning roadmap
 
-**[`/concept-mastery-guide`](skills/concept-mastery-guide/README.md)** — Learn concepts deeply through thought experiments
+**[`/concept-mastery-guide`](skills/10-concept-mastery-guide/SKILL.md)** — Learn concepts deeply through thought experiments
 - Plain-language explanation + project connection + edge cases
 - Study notes for every concept
 - 🟢 Already know / 🟡 Know basics, need practice / 🔴 Completely new
 
-**[`/mock-interview`](skills/mock-interview/README.md)** — Realistic mock interview under pressure
+**[`/mock-interview`](skills/11-mock-interview/SKILL.md)** — Realistic mock interview under pressure
 - No teaching, no hints. Real technical questions.
 - Assessment report: ✅ Ready / ⏳ Borderline / ❌ Needs work
 - Learn-test loop: Study → Test → Identify gaps → Study again
